@@ -1,2 +1,2 @@
-# regression_classfication
+# Regression Classfication
 Example showing decision tree classifier
